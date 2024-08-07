@@ -12,3 +12,8 @@ body {
 strong{
     color: #D5FC34;
 }
+
+.apresentacao {
+    display: flex; 
+    align-items: center; 
+}
